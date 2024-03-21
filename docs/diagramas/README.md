@@ -1,2 +1,2 @@
 # Diagramas de classe
-Coloque aqui todas as versões do seu diagrama de classes. Cada versão deve começar com um número de dois dígitos, na ordem crescente.
+1. ![Diagrama de Classes](https://github.com/DisciplinasProgramacao/lpm-projeto2024-1-pao-de-queijo/blob/master/docs/diagramas/RestauranteUML.drawio%20(1).png) 
